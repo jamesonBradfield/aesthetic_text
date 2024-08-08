@@ -51,6 +51,7 @@ M.aesthetic_menu = function()
 					icon = c
 				end
 				-- process the icon as needed
+
 				output = output .. icon -- concatenate to the new string
 			end
 		end,
